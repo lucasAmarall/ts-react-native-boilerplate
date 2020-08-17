@@ -21,7 +21,7 @@ module.exports = {
           '@molecules': './src/components/molecules',
           '@organisms': './src/components/organisms',
           '@pages': './src/components/pages',
-          '@components': './src/components', // foders inside components
+          '@components': './src/components',
           '@assets': './src/assets',
           '@api': './src/api',
           '@utils': './src/utils',
